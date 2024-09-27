@@ -94,10 +94,10 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="/contact"
+                      href="/roadmap"
                       className="cursor-pointer hover:text-secondary duration-200"
                     >
-                      Contact
+                      Roadmap
                     </a>
                   </li>
                 </ul>
