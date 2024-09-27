@@ -3,10 +3,10 @@
 A web application dedicated to empowering aspiring developers with personalized career guidance. The platform offers tailored learning paths, courses, and resources to help users master coding skills and successfully launch their tech careers.
 
 # **Image**
-<a href='https://career-guidance-ten.vercel.app'><img src='career_guide_live_img.png' /></a>
+<a href='https://career-guidance-ten.vercel.app' target='_blank'><img src='career_guide_live_img.png' /></a>
 
 # **View Live Demo**
-<a href='https://career-guidance-ten.vercel.app'>View Live</a>
+<a href='https://career-guidance-ten.vercel.app' target='_blank'>View Live</a>
 
 ## **Key Features:**
 
